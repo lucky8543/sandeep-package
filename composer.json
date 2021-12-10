@@ -1,0 +1,11 @@
+{
+    "name": "Sandeep/sandeep-package",
+    "description": "A sandeep composer private package.",
+    "autoload": {
+        "psr-4": {
+            "lucky8543\\sandeep-package\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
