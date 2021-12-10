@@ -1,5 +1,5 @@
 {
-    "name": "Sandeep/sandeep-package",
+    "name": "sandeep/sandeep-package",
     "description": "A sandeep composer private package.",
     "autoload": {
         "psr-4": {
